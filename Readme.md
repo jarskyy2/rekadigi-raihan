@@ -7,7 +7,7 @@
 ### 1. Clone Repo
 
 ```bash
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/jarskyy2/rekadigi-raihan.git)
 cd <repository_folder>
 ```
 
